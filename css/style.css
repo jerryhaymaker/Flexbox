@@ -41,7 +41,7 @@ a{
 .splashLogo{
     width: 100%;
     height: 300px;
-    background-image: url("/images/ribbon.png");
+    background-image: url("./ribbon.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
